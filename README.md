@@ -30,14 +30,18 @@ Follow these steps to set up the project on your local machine:
 
 
   ```bash
-  bus_reservation_tkinter
+  cd bus_reservation_tkinter
+```
+
+  ```bash
+ code .
 ```
 
 
   ```bash
 
-  python -m venv busres 
-```
+ python -m venv busres
+``` 
 
 
   ```bash
