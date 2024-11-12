@@ -18,7 +18,7 @@ The **Bus Ticket Reservation System** is designed to simplify the process of boo
 
 ## ⚙️ Prerequisites
 Ensure you have the following installed on your system:
-1. **Python**: [Download Python](https://www.python.org/downloads/) and install it. Make sure to add Python to the system PATH during installation.
+1. **Python**: [Download Python 3.10](https://www.python.org/downloads/) and install it. Make sure to add Python to the system PATH during installation.
 
 
 2. **MySQL**: [Download MySQL](https://dev.mysql.com/downloads/installer/) and install it.
@@ -42,10 +42,6 @@ Follow these steps to set up the project on your local machine:
 
   ```bash
   cd bus_reservation_tkinter
-```
-
-  ```bash
- code .
 ```
 
 
